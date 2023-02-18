@@ -1,0 +1,63 @@
+
+<!doctype html>
+
+<html>
+<head>
+<title>Rain Jacket</title>
+</head>
+
+<p><font face="times new roman" size="1" color="white">Bismillah</font></p>
+<style>
+h1 {text-align: Center;}
+p {text-align: Center;}
+footer {text-align: Center;}
+</style>
+<body style="background-color:white;">
+
+<body>
+<font face="times new roman" size="4">
+<p><b>Basic Needs.</b></p>
+<p>Toronto Employment & Social Services, Scarborough: <a href="https://www.toronto.ca/community-people/employment-social-support/employment-support/toronto-employment-and-social-services-locations/scarborough-village-employment-social-services/"target="_blank">Social Assistance, Scarborough.</a></p>
+<p>Ontario Works Application Portal: <a href="https://www.ontario.ca/page/social-assistance"target="_blank">Ontario Works.</a></p>
+<p>Housing for the Homeless: <a href="https://www.toronto.ca/community-people/employment-social-support/housing-support/financial-support-for-renters/housing-stabilization-fund/"target="_blank">Housing Assitance.</a></p>
+<p>Health Benefits for the Unemployed: <a href="https://www.ontario.ca/page/ontario-works-health-related-benefits"target="_blank">Health Assistance.</a></p>
+<p>Skill Improvement Opportunities for the Unemployed: <a href="https://www.toronto.ca/community-people/employment-social-support/employment-support/training-courses/ontario-works-training-programs-in-toronto/"target="_blank">Education Opportunities.</a></p>
+<p>Internship Search: <a href="https://www.riipen.com/"target="_blank">Rippen.</a></p>
+<p>Career Opportunities for the Unemployed: <a href="https://eos.toronto.ca/ontarioworks/"target="_blank">Employment Opportunities.</a></p>
+<p>Well being & Social Development: <a href="https://www.services.gov.on.ca/S2I/BF_Web/s2i/form?lang=en"target="_blank">Ontario Benefits Finder.</a></p>
+&nbsp
+<p><b>An Entrepreneur.</b></p>
+<p>Corporation Name Registrator: <a href="https://canada-nuans.ca/"target="_blank">Nuans Name Search.</a></p>
+<p>Corporation Registrator: <a href="https://ised-isde.canada.ca/site/corporations-canada/en"target="_blank">Corporation Canada.</a></p>
+<p>Import/Export & GST Number: <a href="https://www.canada.ca/en/revenue-agency.html"target="_blank">CRA.</a></p>
+<p>Corporation Information: <a href="https://www.ic.gc.ca"target="_blank">ISED.</a></p>
+<p>Introduction to Coding: <a href="https://www.ironspider.ca"target="_blank">Learn basic HTML.</a></p>
+<p>Search & Bid on City Contracts: <a href="https://www.ic.gc.ca/app/scr/ic/sbms/cid/importingCountryResults.html?dy=2020&amp;countryCode=553"target="_blank"><a href=https://www.toronto.ca/business-economy/doing-business-with-the-city/searching-bidding-on-city-contracts/">Bid on City of Toronto solicitations.</a></p>
+<p>List by country - Canadian Importers Database: <a href=""target="_blank">Innovation, Science and Economic Development Canada.</a></p>
+<p>Grow your Business: <a href="https://www.tradecommissioner.gc.ca/index.aspx?lang=eng"target="_blank">Trade Commissioner Service.</a></p>
+<p>Hire Interns: <a href="https://www.riipen.com/"target="_blank">Rippen.</a></p>
+&nbsp
+<p><b>Visible Minorities.</b></p>
+<p>Retirement & Pension: <a href="https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada.html"target="_blank">Service Canada.</a></p>
+<p>For Seniors with Language Disability: <a href="https://support.google.com/translate/answer/2534559?hl=en&amp;co=GENIE.Platform%3DDesktop"target="_blank">Website Translator.</a></p>
+<p>Real Estate listings by Relator.Ca: <a href="https://www.realtor.ca/map#ZoomLevel=4&Center=54.920828%2C-99.316406&LatitudeMax=69.23668&LongitudeMax=-57.96387&LatitudeMin=32.79651&LongitudeMin=-140.66895&Sort=6-D&PropertyTypeGroupID=1&PropertySearchTypeId=0&TransactionTypeId=2&Currency=CAD"target="_blank">Real Estate listings.</a></p>
+<p>Landlord and Tenant Board: <a href="https://tribunalsontario.ca/ltb/"target="_blank">Landlord & Tenant Board.</a></p>
+<p>Consumer Protection Ontario: <a href="https://www.ontario.ca/page/consumer-protection-ontario"target="_blank">Consumer Protection Ontario.</a></p>
+&nbsp
+<p><b>Feedbacks and Ratings.</b></p>
+<p>Real Estate Complaints: <a href="https://www.reco.on.ca/complaints-enforcement/"target="_blank">Real Estate Client or Agent complaints.</a></p>
+<p>City Clerk’s Office – Complaints and Suggestions: <a href="https://www.toronto.ca/city-government/accountability-operations-customer-service/city-administration/staff-directory-divisions-and-customer-service/city-clerks-office/city-clerks-office-complaints-compliments/"target="_blank">Complaints for the City Clerk.</a></p>
+<p>Complaints, Claims &amp; Compliments of Toronto: <a href="https://www.toronto.ca/city-government/accountability-operations-customer-service/complaints-claims-compliments/"target="_blank">Complaint Procedures & Forms.</a></p>
+<p>Ombudsman Complaint Form: <a href="https://secure.toronto.ca/webapps/Omboalone/#ombo"target="_blank">Ombudsman Online Complaints Forms.</a></p>
+<p>Create a Service Request to the City: <a href="https://www.toronto.ca/home/311-toronto-at-your-service/create-a-service-request/"target="_blank">Online Service Request Form.</a></p>
+<p>TTC Complaints, compliments and suggestions: <a href="https://www.ttc.ca/customer-service/complaints-compliments-suggestion"target="_blank">TTC CCS.</a></p>
+&nbsp
+<p><b>For other inquiries: <a href="https://acfirminc.com/"target="_blank">A. CF Inc.</a></b></p>
+&nbsp
+
+<footer>
+<p>Author: A. CF INC.</p>
+<p><a href=submitwebsitesdtorainjacket@gmail.com">SubmitWebsitesdtoRainJacket@gmail.com</a></p>
+<p>(647)779-8448.</p>
+</footer>
+</body></html>
